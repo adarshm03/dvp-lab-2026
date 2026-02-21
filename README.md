@@ -8,8 +8,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](#)
 
-*“There is someone I must meet again. And until that day... not even Death itself can take my life away.”* <br>
-*Clean, refurbished, and bug-free executions of the III Semester ISE lab manual.*
 
 </div>
 
