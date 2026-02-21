@@ -20,7 +20,7 @@ for i in range(3):
 test_scores.sort(reverse=True)
 
 # Calculate the average of the best two test scores
-best_two_averages = sum(test_scores[:2])/2
+best_two_averages = sum(test_scores[:2]) / 2
 
 # Output the result
-print("The average of the best two test scores is: {best_two_averages:.2f}")
+print(f"The average of the best two test scores is: {best_two_averages:.2f}")
