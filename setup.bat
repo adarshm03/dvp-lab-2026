@@ -1,9 +1,0 @@
-@echo off
-echo Creating Virtual Environment...
-python -m venv venv
-echo Activating Environment...
-call venv\Scripts\activate
-echo Installing Libraries (this may take a minute)...
-pip install -r requirements.txt
-echo Setup Complete! 
-pause
