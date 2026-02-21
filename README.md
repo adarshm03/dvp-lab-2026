@@ -28,20 +28,20 @@ This repository contains my personal, corrected implementations of the DVP Lab p
 ## 📜 Scroll of Programs
 
 ### Part A: Python Fundamentals
-- [x] [cite_start]**Program 1:** `1a:` Best of two test averages [cite: 146] | [cite_start]`1b:` Palindrome & Digit Count[cite: 187].
-- [x] [cite_start]**Program 2:** `2a:` Sentence Analysis [cite: 269] | [cite_start]`2b:` String Similarity[cite: 291].
+- [x] **Program 1:** `1a:` Best of two test averages [cite: 146] | [cite_start]`1b:` Palindrome & Digit Count[cite: 187].
+- [x] **Program 2:** `2a:` Sentence Analysis [cite: 269] | [cite_start]`2b:` String Similarity[cite: 291].
 
 ### Part B: The Visual Arts (Matplotlib & Seaborn)
-- [x] [cite_start]**Program 3:** Bar & Scatter Plots[cite: 368, 434].
-- [x] [cite_start]**Program 4:** Histograms & Pie Charts[cite: 615, 680].
-- [x] [cite_start]**Program 5:** Linear Plotting, Stack, and Subplots[cite: 734, 806].
-- [x] [cite_start]**Program 6:** Seaborn Aesthetic Customization[cite: 875].
+- [x]**Program 3:** Bar & Scatter Plots[cite: 368, 434].
+- [x] *Program 4:** Histograms & Pie Charts[cite: 615, 680].
+- [x] **Program 5:** Linear Plotting, Stack, and Subplots[cite: 734, 806].
+- [x] **Program 6:** Seaborn Aesthetic Customization[cite: 875].
 
 ### Part C: Advanced Domain Expansion (Bokeh & Plotly)
-- [x] [cite_start]**Program 7:** Bokeh Line Graphs, Annotations & Legends[cite: 925, 1025].
-- [x] [cite_start]**Program 8:** Plotly 3D Surface Plots[cite: 1091].
-- [x] [cite_start]**Program 9:** Plotly Time Series & Geographic Maps[cite: 1121, 1162].
-- [x] [cite_start]**Program 10:** Comprehensive Immigration Data Analysis[cite: 1207].
+- [x] **Program 7:** Bokeh Line Graphs, Annotations & Legends[cite: 925, 1025].
+- [x]**Program 8:** Plotly 3D Surface Plots[cite: 1091].
+- [x] **Program 9:** Plotly Time Series & Geographic Maps[cite: 1121, 1162].
+- [x] **Program 10:** Comprehensive Immigration Data Analysis[cite: 1207].
 
 ---
 
