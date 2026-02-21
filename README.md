@@ -19,8 +19,8 @@
 This repository contains my personal, corrected implementations of the DVP Lab programs. [cite_start]The original manual contained various syntax bugs and logical errors [cite: 148, 196, 239, 1033] which have been completely refactored here for maximum efficiency.
 
 * **Core:** Python 3.12+
-* [cite_start]**Data Manipulation:** Pandas, NumPy [cite: 1451, 1535]
-* [cite_start]**Visualization:** Matplotlib, Seaborn, Bokeh, Plotly [cite: 325, 349, 353, 358]
+* [x]**Data Manipulation:** Pandas, NumPy [cite: 1451, 1535]
+* [x]**Visualization:** Matplotlib, Seaborn, Bokeh, Plotly [cite: 325, 349, 353, 358]
 * **Environment:** Linux-first (Venv-ready)
 
 ---
