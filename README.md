@@ -32,16 +32,16 @@ This repository contains my personal, corrected implementations of the DVP Lab p
   - [cite_start]`2b:` String similarity calculator[cite: 291].
 
 ### Part B: The Visual Arts (Matplotlib & Seaborn)
-- [ ] **Program 3:** Matplotlib Bar Plot & Scatter Plot.
-- [ ] **Program 4:** Matplotlib Histogram & Pie Chart.
-- [ ] **Program 5:** Matplotlib Linear Plotting, Stack, and Subplots.
-- [ ] **Program 6:** Customizing Seaborn plots with Aesthetic functions.
+- [x] **Program 3:** Matplotlib Bar Plot & Scatter Plot.
+- [x] **Program 4:** Matplotlib Histogram & Pie Chart.
+- [x] **Program 5:** Matplotlib Linear Plotting, Stack, and Subplots.
+- [x] **Program 6:** Customizing Seaborn plots with Aesthetic functions.
 
 ### Part C: Advanced Domain Expansion (Bokeh & Plotly)
-- [ ] **Program 7:** Bokeh line graphs with Annotations, Legends, and multi-plotting.
-- [ ] **Program 8:** Plotly 3D Surface Plots.
-- [ ] **Program 9:** Plotly Time Series and Geographic Maps.
-- [ ] **Program 10:** Comprehensive Immigration Dataset Analysis.
+- [x] **Program 7:** Bokeh line graphs with Annotations, Legends, and multi-plotting.
+- [x] **Program 8:** Plotly 3D Surface Plots.
+- [x] **Program 9:** Plotly Time Series and Geographic Maps.
+- [x] **Program 10:** Comprehensive Immigration Dataset Analysis.
 ---
 
 ## 🗡️ How to Unsheathe (Run the Code)
